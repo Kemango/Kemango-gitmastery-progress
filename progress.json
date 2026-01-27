@@ -457,5 +457,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1769528965.2821,
+    "completed_at": 1769528968.193641,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'A' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
