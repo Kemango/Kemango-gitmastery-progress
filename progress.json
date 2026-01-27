@@ -313,5 +313,14 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1769516156.09364,
+    "completed_at": 1769516157.426549,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
